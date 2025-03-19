@@ -1,0 +1,22 @@
+Average Rating per Genre:
+genre_main
+Film-Noir             3.417117
+Documentary           3.345252
+Romance               3.147349
+Drama                 3.133969
+Musical               3.121088
+Animation             3.066191
+Crime                 3.043876
+War                   3.020244
+Comedy                3.007511
+(no genres listed)    2.986868
+Adventure             2.967838
+Children              2.922134
+Mystery               2.900594
+Action                2.848891
+Western               2.816113
+Fantasy               2.776031
+Thriller              2.762524
+Sci-Fi                2.611296
+IMAX                  2.571429
+Horror                2.478570

@@ -1,0 +1,5 @@
+Records in each cluster:
+cluster
+0    82087
+1      136
+2     1016

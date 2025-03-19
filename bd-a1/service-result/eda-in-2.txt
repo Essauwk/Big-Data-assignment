@@ -1,0 +1,7 @@
+Top 5 Most Rated Movies:
+                           title  rating_count
+Shawshank Redemption, The (1994)        122296
+             Forrest Gump (1994)        113581
+             Pulp Fiction (1994)        108756
+              Matrix, The (1999)        107056
+Silence of the Lambs, The (1991)        101802
