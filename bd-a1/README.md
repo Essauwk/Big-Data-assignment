@@ -7,7 +7,7 @@
 | Reem Hussin Mostafa   | 221000241    |
 | Jihad Hamdy           | 221001055    |
 | Mahmoud Essa          | 221001619    |
-| Abdelrahman Ahmed     | 221001199    |
+| Haidy Hamed           | 221001872    |
 | Ibrahim Alaa          | 221000837    |
 
 ---
@@ -186,6 +186,6 @@ docker pull reemarafa23/bd-a1-img:latest
 The full project code has also been pushed to GitHub:
 
 🔗 **GitHub Repo:**  
-https://github.com/ReemArafa23/bd-a1-BigData-.git
+https://github.com/Essauwk/Big-Data-assignment
 
 ---
